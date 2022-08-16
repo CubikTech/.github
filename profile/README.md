@@ -1,4 +1,4 @@
-## Hi there, Welcome to iXORTechnology!
+## Hi there, Welcome to Cubik Technology!
 
 ChatBot and Useful Tools Development Team, Founded by [@Cubik65536](https://github.com/Cubik65536)
 
