@@ -2,6 +2,8 @@
 
 ChatBot and Useful Tools Development Team, Founded by [@Cubik65536](https://github.com/Cubik65536)
 
+:star: We now have a Programming Language development department [@QomegaLang](https://github.com/QomegaLang)!
+
 ### 👨🏻‍💻 Members
 
 **[@Cubik65536](https://github.com/Cubik65536)**
