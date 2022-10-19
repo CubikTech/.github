@@ -19,7 +19,6 @@ If you want to contact us, the most efficient way is to send emails to us. We wi
 ### 🧑🏻‍💻 Our current projects:
 
 - [self-approval](https://github.com/CubikTech/self-approval) - A GitHub App built with Probot and NextJS that allows Pull Request authors to self-approve their Pull Requests.
-- [ReadtheDocsTemplate](https://github.com/CubikTech/ReadtheDocsTemplate) - Template for documentation hosted on https://readthedocs.org
 - [KookyBotChatBotTemplate](https://github.com/CubikTech/KookyBotChatBotTemplate) - A template project for building a chatbot based on KookyBot with Kotlin
 
 ## 🎉 Thanks:
